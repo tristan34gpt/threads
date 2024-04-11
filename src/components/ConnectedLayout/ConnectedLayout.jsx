@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import Footer from "../Footer/Footer";
+import Footer from "../footer/Footer";
 import { usePathname } from "next/navigation";
 import Image from "next/image";
 import Button from "../button/Button";
