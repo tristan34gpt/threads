@@ -37,7 +37,7 @@ export default function Pass() {
       </h1>
       {/* Text */}
       <p className="text-threads-gray-light mt-4">
-        Vous pouvez naviguer dans Threads sans prosil mais vous ne pourrez pas
+        Vous pouvez naviguer dans Threads sans profil mais vous ne pourrez pas
         interagir avec du contenu ni en publier.
       </p>
       {/* Button */}

@@ -28,7 +28,7 @@ export default function Login() {
             <h2 className="font-bold text-white">Utilisez sans profil </h2>
             <div className="text-threads-gray-light mt-4">
               Vous pouvez naviguer dans Threads sans profil, mais vous ne
-              pourrez pas interagir ave du contenu ni en publier.
+              pourrez pas interagir avec du contenu, ni en publier.
             </div>
           </div>
         </Link>
